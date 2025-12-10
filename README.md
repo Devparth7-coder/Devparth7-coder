@@ -24,7 +24,7 @@
 
 </div>
 
-I'm a passionate developer and computer science student focused on building intuitive Android applications and creative digital solutions. With a strong foundation in problem-solving and a keen eye for clean UI design, I strive to create technology that not only functions flawlessly but also delights users.
+I'm a passionate developer and computer science student focused on building intuitive Android applications and creative digital solutions. With a strong foundation in problem-solving and a keen eye for design, I enjoy crafting user-centric mobile experiences and exploring AI integration.
 
 <div align="center">
 
@@ -158,52 +158,47 @@ timeline
         Goal : Build personal tech brand
     section 2028
         Milestone : Graduate as CS Engineer
-</div
+```
+
+</div>
+
+---
+
 🎨 Beyond Code
+
 <div align="center">
-🌟 Personal Dimensions
-<table> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/Basketball_Player-FF6B35?style=for-the-badge&logo=basketball&logoColor=white" alt="Basketball"> <br><strong>🏀 Sports</strong> <br>Team player mindset </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/UI_UX_Designer-FF4785?style=for-the-badge&logo=adobexd&logoColor=white" alt="Designer"> <br><strong>🎨 Design</strong> <br>Creating visual experiences </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/Innovator-00C853?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Innovator"> <br><strong>💡 Innovation</strong> <br>Solving real-world problems </td> </tr> </table></div>
+
+### 🌟 Personal Dimensions
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Basketball_Player-FF6B35?style=for-the-badge&logo=basketball&logoColor=white" alt="Basketball"><br>
+      <strong>🏀 Sports</strong><br>Team player mindset
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/UI_UX_Designer-FF4785?style=for-the-badge&logo=adobexd&logoColor=white" alt="Designer"><br>
+      <strong>🎨 Design</strong><br>Creating visual experiences
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Innovator-00C853?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Innovator"><br>
+      <strong>💡 Innovation</strong><br>Solving real-world problems
+    </td>
+  </tr>
+</table>
+
+</div>
+
 <div align="center">
 📬 Let's Connect
-<p align="center"> <a href="mailto:devparth9784@gmail.com"> <img src="https://img.shields.io/badge/Email-devparth9784%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"> </a> <a href="https://linkedin.com/in/dev-parth-360a68268274"> <img src="https://img.shields.io/badge/LinkedIn-Dev%20Parth-blue?style=flat-square&logo=linkedin" alt="LinkedIn"> </a> <a href="https://github.com/Devparth7-coder"> <img src="https://img.shields.io/badge/GitHub-Devparth7--coder-black?style=flat-square&logo=github" alt="GitHub"> </a> </p><img src="https://komarev.com/ghpvc/?username=Devparth7-coder&style=for-the-badge&color=blue&label=Profile+Visitors" alt="Profile Visitors">
-"Code with purpose. Design with passion. Innovate with impact."
+<p align="center">
+  <a href="mailto:devparth9784@gmail.com"><img src="https://img.shields.io/badge/Email-devparth9784%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://linkedin.com/in/dev-parth-360a68268274"><img src="https://img.shields.io/badge/LinkedIn-Dev%20Parth-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/Devparth7-coder"><img src="https://img.shields.io/badge/GitHub-Devparth7--coder-black?style=flat-square&logo=github" alt="GitHub"></a>
+</p>
+<img src="https://komarev.com/ghpvc/?username=Devparth7-coder&style=for-the-badge&color=blue&label=Profile+Visitors" alt="Profile Visitors">
+
+<p>"Code with purpose. Design with passion. Innovate with impact."</p>
 
 ⭐ Feel free to explore my repositories and get in touch for collaborations!
-
-</div> ```
-📝 How to Use This:
-Create a new file in your GitHub repository root directory
-
-Name it exactly: README.md
-
-Copy and paste all the content above
-
-Commit the changes
-
-Your professional GitHub profile README will be live!
-
-The README includes:
-
-✅ Professional header with badges
-
-✅ About section with personal mission
-
-✅ Technical skills with visual badges
-
-✅ Featured projects section
-
-✅ GitHub statistics and analytics
-
-✅ Contribution activity graph
-
-✅ Development journey timeline
-
-✅ Personal interests section
-
-✅ Contact information
-
-✅ Professional design and layout
-
-This will create an impressive, professional GitHub profile that showcases your skills and personality effectively!
-
-
+</div>
