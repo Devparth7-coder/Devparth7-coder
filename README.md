@@ -158,7 +158,7 @@ timeline
         Goal : Build personal tech brand
     section 2028
         Milestone : Graduate as CS Engineer
-</div>
+</div>```
 🎨 Beyond Code
 <div align="center">
 🌟 Personal Dimensions
@@ -171,4 +171,4 @@ timeline
 ⭐ Feel free to explore my repositories and get in touch for collaborations!
 
 </div>
- ```
+ 
