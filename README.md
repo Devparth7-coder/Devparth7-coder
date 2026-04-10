@@ -2,7 +2,7 @@
 
 # 🚀 Dev Parth
 
-### **Android Developer | UI/UX Designer | Problem Solver**
+### **AI/ML Engineer | UI/UX Designer | Problem Solver**
 
 <p align="center">
   <a href="https://github.com/Devparth7-coder"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"></a>
