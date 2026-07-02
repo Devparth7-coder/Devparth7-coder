@@ -1,204 +1,72 @@
-<div align="center">
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ ║ 🚀 DEV PARTH — CREATIVE DEVELOPER ║ ║ "Code is the closest thing we have to magic." ║ ╚══════════════════════════════════════════════════════════════════════════╝ --><div align="center"><!-- ═══════════ ANIMATED HEADER ═══════════ --><a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=2500&pause=600&color=6C63FF&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%91%8B+Hello%2C+World!+I'm+Dev+Parth;%F0%9F%A4%96+AI%2FML+Engineer+%7C+Android+Developer;%F0%9F%8E%A8+UI%2FUX+Designer+%7C+Problem+Solver;%F0%9F%92%A1+Building+the+Future%2C+One+Commit+at+a+Time;%E2%9A%A1+Let's+Create+Something+Legendary!" alt="Typing SVG" /> </a><!-- ═══════════ PROFILE BADGES ═══════════ --><p> <a href="https://github.com/Devparth7-coder"> <img src="https://img.shields.io/badge/🐙_GitHub-Devparth7--coder-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="35"/> </a>&nbsp; <a href="https://linkedin.com/in/dev-parth-360a68268274"> <img src="https://img.shields.io/badge/💼_LinkedIn-Dev_Parth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="35"/> </a>&nbsp; <a href="mailto:devparth9784@gmail.com"> <img src="https://img.shields.io/badge/📧_Email-devparth9784%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="35"/> </a>&nbsp; <a href="https://devparth.vercel.app"> <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" height="35"/> </a> </p><!-- ═══════════ STAT PILLS ═══════════ --><p> <img src="https://komarev.com/ghpvc/?username=Devparth7-coder&style=for-the-badge&color=6C63FF&label=👁️+Profile+Views" height="28"/> &nbsp; <img src="https://img.shields.io/badge/🟢_Open_to-Collaborations-00C853?style=for-the-badge&labelColor=0D1117" height="28"/> &nbsp; <img src="https://img.shields.io/badge/📍-India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" height="28"/> &nbsp; <img src="https://img.shields.io/badge/🎓_CS_Student-6C63FF?style=for-the-badge&labelColor=0D1117" height="28"/> </p><br/><!-- ═══════════ ANIMATED CODING GIF ═══════════ --><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"></div>
+<!-- ═══════════════════════════════════════════════════════════════════════ --><!-- 🎯 ABOUT ME --><!-- ═══════════════════════════════════════════════════════════════════════ --><table> <tr> <td width="55%">
+🧠   Who Am I?
+"I don't just write code — I craft digital experiences that people love to use."
 
-# 🚀 Dev Parth
+🎓   CS Student obsessed with the AI × Design intersection<br/>
+📱   Building Android apps with Kotlin & modern architecture<br/>
+🎨   UI/UX craftsman — pixels matter, but humans matter more<br/>
+🤖   AI/ML explorer — from NLP to computer vision<br/>
+🔄   Forever curious — currently diving into Generative AI
 
-### **AI/ML Engineer | UI/UX Designer | Problem Solver**
+<br/><p align="center"> <img src="https://img.shields.io/badge/💼_Focus-Android_+_AI-6C63FF?style=for-the-badge&labelColor=0D1117&borderRadius=15"/> <img src="https://img.shields.io/badge/🎯_Philosophy-Clean_•_Intuitive_•_Delightful-FF6B35?style=for-the-badge&labelColor=0D1117&borderRadius=15"/> <img src="https://img.shields.io/badge/💡_Approach-Think_Deep_•_Build_Bold-00C853?style=for-the-badge&labelColor=0D1117&borderRadius=15"/> <img src="https://img.shields.io/badge/🎯_Mission-Build_Tech_People_💙-EA4335?style=for-the-badge&labelColor=0D1117&borderRadius=15"/> </p></td> <td width="45%" align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-7f1c40a4-9c7e-4d62-8e75-70af5e4e1b8d.gif" width="320" alt="Coding setup"/></td> </tr> </table>
+<!-- ═══════════════════════════════════════════════════════════════════════ --><!-- 🛠️ TECH ARSENAL --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284087-7f1c40a4-9c7e-4d62-8e75-70af5e4e1b8d.gif" width="28"> &nbsp; Technology Arsenal &nbsp; <img src="https://user-images.githubusercontent.com/74038190/212284087-7f1c40a4-9c7e-4d62-8e75-70af5e4e1b8d.gif" width="28"> </h2><!-- ── LANGUAGES ── --><details open> <summary><b>💻 Programming Languages</b></summary> <br/> <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/> </p> </details><!-- ── TOOLS ── --><details open> <summary><b>🛠️ Tools & Frameworks</b></summary> <br/> <p align="center"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Adobe_CC-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117"/> </p> </details><!-- ── LEARNING ── --><details> <summary><b>📚 Currently Diving Into...</b></summary> <br/> <p align="center"> <img src="https://img.shields.io/badge/🤖_Generative_AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Cloud_(AWS)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&labelColor=0D1117"/> </p> </details>
+<!-- ═══════════════════════════════════════════════════════════════════════ --><!-- 🏆 FEATURED PROJECTS --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284087-7f1c40a4-9c7e-4d62-8e75-70af5e4e1b8d.gif" width="28"> &nbsp; Featured Creations &nbsp; <img src="https://user-images.githubusercontent.com/74038190/212284087-7f1c40a4-9c7e-4d62-8e75-70af5e4e1b8d.gif" width="28"> </h2><!-- ── PROJECT 1 ── --><table align="center"> <tr> <td width="50%">
+🤖   AI Resume Analyzer
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/ML-6C63FF?style=flat-square"/>
+Smart resume parsing with AI-powered insights & ATS optimization
 
-<p align="center">
-  <a href="https://github.com/Devparth7-coder"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/dev-parth-360a68268274"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:devparth9784@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-</p>
+✨   Highlights:
 
-<img src="https://komarev.com/ghpvc/?username=Devparth7-coder&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views">
+📄 Intelligent text extraction & parsing
+🎯 ATS compatibility scoring
+📊 Skill gap analysis & recommendations
+📈 Visual improvement roadmap
+<a href="https://github.com/Devparth7-coder/AI-Resume-Analyzer"> <img src="https://img.shields.io/badge/⭐_Explore_Repo-6C63FF?style=for-the-badge&labelColor=0D1117"/> </a></td> <td width="50%" align="center"><a href="https://github.com/Devparth7-coder/AI-Resume-Analyzer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devparth7-coder&repo=AI-Resume-Analyzer&theme=tokyonight&hide_border=true&show_owner=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" width="100%"/> </a></td> </tr> </table><br/><!-- ── PROJECT 2 ── --><table align="center"> <tr> <td width="50%" align="center"><a href="https://github.com/Devparth7-coder/AI-Art-Generator"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devparth7-coder&repo=AI-Art-Generator&theme=tokyonight&hide_border=true&show_owner=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" width="100%"/> </a></td> <td width="50%">
+🎨   AI Art Generator
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Generative_AI-6C63FF?style=flat-square"/>
+Unleash creativity — generate stunning digital artwork from text prompts
 
-</div>
+✨   Highlights:
 
----
+🖼️ Text-to-image generation pipeline
+🎨 Multiple artistic styles & filters
+⚡ Real-time preview & iteration
+💾 High-resolution export support
+<a href="https://github.com/Devparth7-coder/AI-Art-Generator"> <img src="https://img.shields.io/badge/⭐_Explore_Repo-FF6B35?style=for-the-badge&labelColor=0D1117"/> </a></td> </tr> </table><p align="center"> <a href="https://github.com/Devparth7-coder?tab=repositories"> <img src="https://img.shields.io/badge/🔭_View_All_Repositories-6C63FF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white"/> </a> </p>
+<!-- ═══════════════════════════════════════════════════════════════════════ --><!-- 📊 GITHUB ANALYTICS --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284087-7f1c40a4-9c7e-4d62-8e75-70af5e4e1b8d.gif" width="28"> &nbsp; Developer Analytics &nbsp; <img src="https://user-images.githubusercontent.com/74038190/212284087-7f1c40a4-9c7e-4d62-8e75-70af5e4e1b8d.gif" width="28"> </h2><!-- ── TROPHY CASE ── --><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Devparth7-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%"/> </p><!-- ── PROFILE SUMMARY ── --><p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devparth7-coder&theme=tokyonight" width="100%"/> </p><!-- ── STATS + STREAK ── --><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Devparth7-coder&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C853&text_color=FFFFFF&ring_color=6C63FF&rank_icon=github" width="48%"/> <img src="https://streak-stats.demolab.com?user=Devparth7-coder&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6B35&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=888888" width="48%"/> </p><!-- ── LANGUAGE BREAKDOWN ── --><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devparth7-coder&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" width="35%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devparth7-coder&theme=tokyonight" width="30%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devparth7-coder&theme=tokyonight" width="30%"/> </p><!-- ── ACTIVITY GRAPH ── --><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devparth7-coder&theme=tokyo-night&hide_border=true&area=true&custom_title=📈%20Contribution%20Timeline&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B35&area_color=6C63FF40&title_color=FFFFFF" width="100%"/> </p>
+<!-- ═══════════════════════════════════════════════════════════════════════ --><!-- 🐍 CONTRIBUTION SNAKE --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> ✨ &nbsp; My Contributions Got Snaked &nbsp; ✨ </h2><p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devparth7-coder/Devparth7-coder/output/github-contribution-grid-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devparth7-coder/Devparth7-coder/output/github-contribution-grid-snake.svg"/> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Devparth7-coder/Devparth7-coder/output/github-contribution-grid-snake.svg" width="100%"/> </picture> </p><!-- ⚠️ To activate the snake: create .github/workflows/snake.yml (see bottom of this README) -->
+<!-- ═══════════════════════════════════════════════════════════════════════ --><!-- 🧭 DEVELOPMENT JOURNEY --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284087-7f1c40a4-9c7e-4d62-8e75-70af5e4e1b8d.gif" width="28"> &nbsp; My Evolution in Tech &nbsp; <img src="https://user-images.githubusercontent.com/74038190/212284087-7f1c40a4-9c7e-4d62-8e75-70af5e4e1b8d.gif" width="28"> </h2>
+mermaid
 
-## 🎯 About Me
-
-<div align="center">
-  
-*"Transforming ideas into elegant digital experiences through code and design."*
-
-</div>
-
-I'm a passionate developer and computer science student focused on building intuitive Android applications and creative digital solutions. With a strong foundation in problem-solving and a keen eye for design, I enjoy crafting user-centric mobile experiences and exploring AI integration.
-
-<div align="center">
-
-### **🌟 Quick Highlights**
-  
-| **Aspect** | **Description** |
-|------------|-----------------|
-| **Current Focus** | Android Development & AI Integration |
-| **Design Philosophy** | Clean, intuitive, user-centric interfaces |
-| **Approach** | Logical thinking with creative execution |
-| **Mission** | Build meaningful tech that people love 💙 |
-
-</div>
-
----
-
-## 🛠️ Technical Expertise
-
-### **💻 Programming Languages**
-
-<div align="center">
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-### **📱 Development Tools & Frameworks**
-
-<div align="center">
-  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-### **🚀 AI-Powered Applications**
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[🤖 AI Resume Analyzer](https://github.com/Devparth7-coder/AI-Resume-Analyzer)** | Intelligent resume parsing and optimization tool | Python, NLP, ML |
-| **[🎨 AI Art Generator](https://github.com/Devparth7-coder/AI-Art-Generator)** | Creative tool for generating digital art using AI | Python, TensorFlow |
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Devparth7-coder/AI-Resume-Analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devparth7-coder&repo=AI-Resume-Analyzer&theme=radical&hide_border=true&show_owner=true" width="45%" alt="AI Resume Analyzer">
-</a>
-<a href="https://github.com/Devparth7-coder/AI-Art-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devparth7-coder&repo=AI-Art-Generator&theme=radical&hide_border=true&show_owner=true" width="45%" alt="AI Art Generator">
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### **📈 Development Activity**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devparth7-coder&theme=tokyonight" width="100%" alt="Profile Details">
-
-</div>
-
-<div align="center">
-
-### **📊 Performance Metrics**
-
-<img src="https://github-readme-stats.vercel.app/api?username=Devparth7-coder&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devparth7-coder&theme=tokyonight&hide_border=true&currStreakLabel=FF6B6B" width="48%" alt="GitHub Streak">
-
-### **💻 Language Proficiency**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devparth7-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="Top Languages">
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devparth7-coder&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Activity)
-
-</div>
-
----
-
-## 🧭 Development Journey
-
-<div align="center">
-
-### **🚀 My Evolution in Tech**
-
-```mermaid
 timeline
-    title 🚀 Development Journey Timeline
-    section 2023
-        Q3 : Started coding journey
-        Q4 : First programming projects
-    section 2024
-        Q1 : Web development exploration
-        Q2 : AI & ML projects
-        Q3-Q4 : Built portfolio projects
-    section 2025
-        Q1-Q2 : Android Development focus
-        Q3 : UI/UX design skills
-        Q4 : Advanced app architecture
-    section 2026
-        Target : Publish first Android App
-    section 2027
-        Goal : Build personal tech brand
-    section 2028
-        Milestone : Graduate as CS Engineer
-```
-
-</div>
-
----
-
-🎨 Beyond Code
-
-<div align="center">
-
-### 🌟 Personal Dimensions
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Basketball_Player-FF6B35?style=for-the-badge&logo=basketball&logoColor=white" alt="Basketball"><br>
-      <strong>🏀 Sports</strong><br>Team player mindset
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/UI_UX_Designer-FF4785?style=for-the-badge&logo=adobexd&logoColor=white" alt="Designer"><br>
-      <strong>🎨 Design</strong><br>Creating visual experiences
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Innovator-00C853?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Innovator"><br>
-      <strong>💡 Innovation</strong><br>Solving real-world problems
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<div align="center">
-📬 Let's Connect
-<p align="center">
-  <a href="mailto:devparth9784@gmail.com"><img src="https://img.shields.io/badge/Email-devparth9784%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://linkedin.com/in/dev-parth-360a68268274"><img src="https://img.shields.io/badge/LinkedIn-Dev%20Parth-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/Devparth7-coder"><img src="https://img.shields.io/badge/GitHub-Devparth7--coder-black?style=flat-square&logo=github" alt="GitHub"></a>
-</p>
-<img src="https://komarev.com/ghpvc/?username=Devparth7-coder&style=for-the-badge&color=blue&label=Profile+Visitors" alt="Profile Visitors">
-
-<p>"Code with purpose. Design with passion. Innovate with impact."</p>
-
-⭐ Feel free to explore my repositories and get in touch for collaborations!
-</div>
+    title 🚀 Dev Parth — The Journey
+    section 2023 — Origins
+        Q3 : Wrote "Hello, World!"
+        Q4 : First projects
+             : Fell in love with code
+    section 2024 — Exploration
+        Q1 : Web Development
+        Q2 : AI & Machine Learning
+        Q3 : Portfolio projects
+        Q4 : First hackathon 🏆
+    section 2025 — Specialization
+        Q1 : Android Development
+        Q2 : Kotlin & Jetpack Compose
+        Q3 : UI/UX Deep Dive
+        Q4 : App Architecture Patterns
+    section 2026 — Building 🚧
+        Q1 : First Play Store App
+        Q2 : AI-Powered Mobile Apps
+        Q3 : Open Source Contributions
+        Q4 : Personal Brand Launch
+    section 2027 — Growth
+        H1 : SaaS Product Launch
+        H2 : Conference Talks
+    section 2028 — Milestone 🎓
+        Goal : Graduate as CS Engineer
+        Vision : Running a Tech Startup
+<!-- ═══════════════════════════════════════════════════════════════════════ --><!-- 🎨 BEYOND THE KEYBOARD --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284087-7f1c40a4-9c7e-4d62-8e75-70af5e4e1b8d.gif" width="28"> &nbsp; Beyond the Keyboard &nbsp; <img src="https://user-images.githubusercontent.com/74038190/212284087-7f1c40a4-9c7e-4d62-8e75-70af5e4e1b8d.gif" width="28"> </h2><table align="center"> <tr> <td align="center" width="25%"> <h3>🏀</h3> <b>Basketball</b><br> <sub>Team player mindset.<br>Never gives up the ball.</sub> </td> <td align="center" width="25%"> <h3>🎨</h3> <b>UI/UX Design</b><br> <sub>Pixel-perfect.<br>Human-centered approach.</sub> </td> <td align="center" width="25%"> <h3>💡</h3> <b>Innovation</b><br> <sub>Solving real problems.<br>One idea at a time.</sub> </td> <td align="center" width="25%"> <h3>📚</h3> <b>Lifelong Learning</b><br> <sub>Always curious.<br>Forever a student.</sub> </td> </tr> </table><br/><details align="center"> <summary><b>🎲 Random Dev Facts About Me</b></summary> <br/> <table align="center"> <tr><td>☕</td><td>I debug 10x better with coffee in hand</td></tr> <tr><td>🎧</td><td>Lo-fi beats = my peak coding flow state</td></tr> <tr><td>🌙</td><td>My IDE glows brightest after midnight</td></tr> <tr><td>🧠</td><td>AI won't replace devs — devs using AI will</td></tr> <tr><td>🧩</td><td>Every bug is a puzzle waiting to be cracked</td></tr> <tr><td>🔥</td><td>I ship code on weekends — because passion > deadlines</td></tr> </table> </details>
+<!-- ═══════════════════════════════════════════════════════════════════════ --><!-- 📬 LET'S CONNECT --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284087-7f1c40a4-9c7e-4d62-8e75-70af5e4e1b8d.gif" width="28"> &nbsp; Let's Build Something Epic &nbsp; <img src="https://user-images.githubusercontent.com/74038190/212284087-7f1c40a4-9c7e-4d62-8e75-70af5e4e1b8d.gif" width="28"> </h2><p align="center"> <a href="mailto:devparth9784@gmail.com"> <img src="https://img.shields.io/badge/📧_Email-devparth9784%40gmail.com-EA4335?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=white"/> </a>&nbsp; <a href="https://linkedin.com/in/dev-parth-360a68268274"> <img src="https://img.shields.io/badge/💼_LinkedIn-Dev_Parth-0077B5?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white"/> </a>&nbsp; <a href="https://github.com/Devparth7-coder"> <img src="https://img.shields.io/badge/🐙_GitHub-Devparth7--coder-181717?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white"/> </a> </p><br/><!-- ── QUOTE ── --><p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+with+purpose.+Design+with+passion.+Innovate+with+impact.&author=Dev+Parth" width="65%"/> </p><!-- ── SUPPORT ── --><p align="center"> <a href="https://www.buymeacoffee.com/devparth"> <img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0D1117"/> </a>&nbsp; <a href="https://github.com/sponsors/Devparth7-coder"> <img src="https://img.shields.io/badge/❤️_Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0D1117"/> </a> </p><br/><p align="center"> <img src="https://komarev.com/ghpvc/?username=Devparth7-coder&style=for-the-badge&color=6C63FF&label=🟢+Thanks+for+Visiting!"/> </p>
+<!-- ═══════════════════════════════════════════════════════════════════════ --><!-- 🐍 SETUP INSTRUCTIONS --><!-- ═══════════════════════════════════════════════════════════════════════ --><details> <summary><b>🔧 How to Activate the Contribution Snake</b></summary> <br/>
+Create .github/workflows/snake.yml in your profile repo:
