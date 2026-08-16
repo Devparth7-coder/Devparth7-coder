@@ -407,7 +407,7 @@ implementation separate from the MAS-RELIAB benchmark and analysis layer.
 
 <br/>
 
-<img src=".footer.svg" width="100%" alt=""/>
+<img src="footer.svg" width="100%" alt=""/>
 
 </div>
 
