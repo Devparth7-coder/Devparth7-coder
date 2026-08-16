@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Dev Parth — agentic AI systems, engineer by discipline, poet by defect">
+
+  <defs>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#0A0D12"/>
+      <stop offset="45%"  stop-color="#0E1319"/>
+      <stop offset="100%" stop-color="#1A0E12"/>
+    </linearGradient>
+
+    <linearGradient id="crimsonRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#E63946"/>
+      <stop offset="60%"  stop-color="#8E1620"/>
+      <stop offset="100%" stop-color="#E63946" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="baseRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#E63946" stop-opacity="0"/>
+      <stop offset="30%"  stop-color="#E63946" stop-opacity="0.85"/>
+      <stop offset="70%"  stop-color="#E63946" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#E63946" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#E6EDF3" stop-opacity="0"/>
+      <stop offset="48%"  stop-color="#E6EDF3" stop-opacity="0.045"/>
+      <stop offset="52%"  stop-color="#E63946" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#E6EDF3" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="topShade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#000000" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="emberA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%"   stop-color="#E63946" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#E63946" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="emberB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%"   stop-color="#3B82F6" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#E6EDF3" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="nodeGlow" x="-160%" y="-160%" width="420%" height="420%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <clipPath id="frame"><rect width="1000" height="300" rx="10"/></clipPath>
+
+    <path id="lane1" d="M700 96 L772 62 L846 92 L920 58"/>
+    <path id="lane2" d="M700 96 L766 142 L846 92"/>
+    <path id="lane3" d="M766 142 L836 186 L924 158"/>
+  </defs>
+
+  <g clip-path="url(#frame)">
+
+    <rect width="1000" height="300" fill="url(#ink)"/>
+    <rect width="1000" height="300" fill="url(#grid)"/>
+    <ellipse cx="880" cy="52"  rx="330" ry="200" fill="url(#emberA)"/>
+    <ellipse cx="110" cy="300" rx="300" ry="170" fill="url(#emberB)"/>
+    <rect x="0" y="0" width="1000" height="46" fill="url(#topShade)"/>
+
+    <!-- substrate: the critic loop, in the machine's own hand -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#E6EDF3" fill-opacity="0.055">
+      <text x="646" y="232">async def critique(claims) -&gt; Verdict:</text>
+      <text x="666" y="250">    if not claim.citation: return RETRY</text>
+      <text x="686" y="268">    yield Event(stage="critic")</text>
+    </g>
+
+    <!-- ══ agent constellation ══ -->
+    <g stroke="#E63946" stroke-opacity="0.40" stroke-width="1.3" fill="none">
+      <use href="#lane1"/><use href="#lane2"/><use href="#lane3"/>
+    </g>
+
+    <g filter="url(#nodeGlow)">
+      <g fill="#0A0D12" stroke="#E63946" stroke-width="1.7">
+        <circle cx="700" cy="96"  r="5.6"/>
+        <circle cx="772" cy="62"  r="5.6"/>
+        <circle cx="846" cy="92"  r="5.6"/>
+        <circle cx="920" cy="58"  r="5.6"/>
+        <circle cx="766" cy="142" r="5.6"/>
+        <circle cx="836" cy="186" r="5.6"/>
+        <circle cx="924" cy="158" r="5.6"/>
+      </g>
+      <circle cx="846" cy="92" r="5.6" fill="#E63946">
+        <animate attributeName="fill-opacity" values="0.95;0.12;0.95" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <circle r="3.6" fill="#F5F7FA">
+      <animateMotion dur="4.2s" repeatCount="indefinite"><mpath href="#lane1"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#E63946">
+      <animateMotion dur="3.4s" begin="1.1s" repeatCount="indefinite"><mpath href="#lane2"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.4s" begin="1.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#E63946">
+      <animateMotion dur="5s" begin="2.2s" repeatCount="indefinite"><mpath href="#lane3"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" dur="5s" begin="2.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#6E7681">
+      <text x="672" y="84">plan</text>
+      <text x="748" y="48">retrieve</text>
+      <text x="856" y="108" fill="#E63946">critic</text>
+      <text x="898" y="44">report</text>
+    </g>
+
+    <!-- ══ identity block ══ -->
+    <text x="64" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+          font-size="11.5" letter-spacing="4" fill="#E63946">DEVPARTH7-CODER</text>
+
+    <rect x="64" y="66" width="118" height="2" fill="url(#crimsonRule)"/>
+
+    <g filter="url(#softGlow)">
+      <text x="66" y="140" font-family="Georgia,'Iowan Old Style','Times New Roman',serif"
+            font-size="52" font-weight="700" letter-spacing="2" fill="#E63946" fill-opacity="0.28">DEV PARTH</text>
+    </g>
+    <text x="64" y="138" font-family="Georgia,'Iowan Old Style','Times New Roman',serif"
+          font-size="52" font-weight="700" letter-spacing="2" fill="#F0F6FC">DEV PARTH</text>
+
+    <!-- the two selves — separate text nodes so no renderer can collapse them -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">
+      <text x="64"  y="172" fill="#C9D1D9">engineer</text>
+      <text x="132" y="172" fill="#6E7681">by discipline</text>
+      <text x="242" y="172" fill="#E63946">&#183;</text>
+      <text x="258" y="172" fill="#C9D1D9">poet</text>
+      <text x="300" y="172" fill="#6E7681">by defect</text>
+    </g>
+
+    <!-- capability pills -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10">
+      <rect x="64"  y="192" width="126" height="23" rx="11.5" fill="#13181F" stroke="#2A313B"/>
+      <text x="127" y="207" fill="#C9D1D9" text-anchor="middle">agentic systems</text>
+
+      <rect x="198" y="192" width="132" height="23" rx="11.5" fill="#13181F" stroke="#2A313B"/>
+      <text x="264" y="207" fill="#C9D1D9" text-anchor="middle">multi-agent RAG</text>
+
+      <rect x="338" y="192" width="116" height="23" rx="11.5" fill="#1A0E12" stroke="#E63946" stroke-opacity="0.5"/>
+      <text x="396" y="207" fill="#E63946" text-anchor="middle">observability</text>
+    </g>
+
+    <!-- thesis -->
+    <text x="64" y="248" font-family="Georgia,'Iowan Old Style','Times New Roman',serif"
+          font-size="15" font-style="italic" fill="#E6EDF3">&#8220;If it cannot be traced, it cannot be trusted.&#8221;</text>
+
+    <!-- live status -->
+    <circle cx="69" cy="276" r="3.4" fill="#3FB950">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="82" y="280" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+          font-size="9.5" letter-spacing="1.2" fill="#6E7681">DELHI, INDIA &#183; OPEN TO COLLABORATION</text>
+
+    <!-- scanning sweep -->
+    <rect x="-420" y="0" width="420" height="300" fill="url(#sweep)">
+      <animate attributeName="x" values="-420;1000" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="0" y="296" width="1000" height="4" fill="url(#baseRule)"/>
+    <rect x="0.5" y="0.5" width="999" height="299" rx="10" fill="none" stroke="#E63946" stroke-opacity="0.22"/>
+  </g>
+</svg>
